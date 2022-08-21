@@ -1,4 +1,5 @@
+override = true
 libraries{
     merge = true
-    dir1
+    mavendir
 }
